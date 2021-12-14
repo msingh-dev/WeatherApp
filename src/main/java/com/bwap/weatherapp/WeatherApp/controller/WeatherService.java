@@ -20,7 +20,7 @@ public class WeatherService {
     private Response response;
     private String CityName;
     String unit;
-    private String API = "74e62b7e91d3e39bab310bdf4fbc97ff";
+    private String API = "<API_KEY>";
 
 
     public JSONObject getWeather(){
